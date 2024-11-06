@@ -3,3 +3,7 @@
 
 - Clone / Download project ini
 - Buka dengan QGIS
+
+### QGIS2Web
+
+- Hasil Export QGIS2Web ada di Folder docs
